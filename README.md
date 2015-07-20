@@ -15,5 +15,5 @@ https://data.nasa.gov/developer
      
 http://www.telescopeapp.org/
 
-     Great Hacker news clonse
+     Great Hacker news clone
 
