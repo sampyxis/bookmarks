@@ -12,4 +12,8 @@ https://api.nasa.gov/index.html
 https://data.nasa.gov/developer
 
      Nasa Open Data
+     
+http://www.telescopeapp.org/
+
+     Great Hacker news clonse
 
