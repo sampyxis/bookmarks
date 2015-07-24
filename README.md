@@ -20,4 +20,8 @@ http://www.telescopeapp.org/
 https://consinnovation.herokuapp.com/
      
      Telescope version of Hacker News for conservation
+     
+http://www.generativeart.com/bookshop/bookshop.htm
+
+     Generative art bookshop
 
