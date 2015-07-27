@@ -25,3 +25,7 @@ http://www.generativeart.com/bookshop/bookshop.htm
 
      Generative art bookshop
 
+http://www.gizmag.com/creative-ai-algorithmic-art-painting-fool-aaron/36106/
+
+     Robatic painting
+
