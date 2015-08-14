@@ -32,3 +32,6 @@ http://www.gizmag.com/creative-ai-algorithmic-art-painting-fool-aaron/36106/
 
      Robatic painting
 
+https://www.youtube.com/watch?v=_DMa_ve3N6o
+
+     Live coding for language - for NanoGenMo
